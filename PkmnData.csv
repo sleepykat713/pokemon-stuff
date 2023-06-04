@@ -1,0 +1,1093 @@
+Generation,NatlDexNum,Name,Type1,Type2,BaseStatTotal,EvoLine,EvoStage,EvoCondition1,EvoCondition2,EvoCondition3
+1,1,Bulbasaur,Grass,Poison,318,Bulbasaur,Base,X,X,X
+1,2,Ivysaur,Grass,Poison,405,Bulbasaur,Middle,Levelling,X,X
+1,3,Venusaur,Grass,Poison,525,Bulbasaur,Final,Levelling,X,X
+1,4,Charmander,Fire,,309,Charmander,Base,X,X,X
+1,5,Charmeleon,Fire,,405,Charmander,Middle,Levelling,X,X
+1,6,Charizard,Fire,Flying,534,Charmander,Final,Levelling,X,X
+1,7,Squirtle,Water,,314,Squirtle,Base,X,X,X
+1,8,Wartortle,Water,,405,Squirtle,Middle,Levelling,X,X
+1,9,Blastoise,Water,,530,Squirtle,Final,Levelling,X,X
+1,10,Caterpie,Bug,,195,Caterpie,Base,X,X,X
+1,11,Metapod,Bug,,205,Caterpie,Middle,Levelling,X,X
+1,12,Butterfree,Bug,Flying,395,Caterpie,Final,Levelling,X,X
+1,13,Weedle,Bug,Poison,195,Weedle,Base,X,X,X
+1,14,Kakuna,Bug,Poison,205,Weedle,Middle,Levelling,X,X
+1,15,Beedril,Bug,Poison,395,Weedle,Final,Levelling,X,X
+1,16,Pidgey,Normal,Flying,251,Pidgey,Base,X,X,X
+1,17,Pidgeotto,Normal,Flying,349,Pidgey,Middle,Levelling,X,X
+1,18,Pidgeot,Normal,Flying,469,Pidgey,Final,Levelling,X,X
+1,19,Rattata,Normal,,253,Rattata,Base,X,X,X
+7,19,Alolan Rattata,Dark,Normal,253,Rattata,Base,X,X,X
+1,20,Raticate,Normal,,413,Rattata,Final,Levelling,X,X
+7,20,Alolan Raticate,Dark,Normal,413,Rattata,Final,Levelling,X,X
+1,21,Spearow,Normal,Flying,262,Spearow,Base,X,X,X
+1,22,Fearow,Normal,Flying,442,Spearow,Final,Levelling,X,X
+1,23,Ekans,Poison,,288,Ekans,Base,X,X,X
+1,24,Arbok,Poison,,448,Ekans,Final,Levelling,X,X
+1,25,Pikachu,Electric,,320,Pikachu,Middle,Friendship,X,X
+1,26,Raichu,Electric,,485,Pikachu,Final,Stone,X,X
+7,26,Alolan Raichu,Electric,Psychic,485,Pikachu,Final,Stone,X,X
+1,27,Sandshrew,Ground,,300,Sandshrew,Base,X,X,X
+7,27,Alolan Sandshrew,Ice,Steel,300,Sandshrew,Base,X,X,X
+1,28,Sandslash,Ground,,450,Sandshrew,Final,Levelling,X,X
+7,28,Alolan Sandslash,Ice,Steel,450,Sandshrew,Final,Stone,X,X
+1,29,NidoranF,Poison,,275,NidoranF,Base,X,X,X
+1,30,Nidorina,Poison,,365,NidoranF,Middle,Levelling,X,X
+1,31,Nidoqueen,Poison,Ground,505,NidoranF,Final,Stone,X,X
+1,32,NidoranM,Poison,,273,NidoranM,Base,X,X,X
+1,33,Nidorino,Poison,,365,NidoranM,Middle,Levelling,X,X
+1,34,Nidoking,Poison,Ground,505,NidoranM,Final,Stone,X,X
+1,35,Clefairy,Fairy,,323,Clefairy,Middle,Friendship,X,X
+1,36,Clefable,Fairy,,483,Clefairy,Final,Stone,X,X
+1,37,Vulpix,Fire,,299,Vulpix,Base,X,X,X
+7,37,Alolan Vulpix,Ice,,299,Vulpix,Base,X,X,X
+1,38,Ninetails,Fire,,505,Vulpix,Final,Stone,X,X
+7,38,Alolan Ninetails,Ice,Fairy,505,Vulpix,Final,Stone,X,X
+1,39,Jigglypuff,Normal,Fairy,270,Jigglypuff,Middle,Friendship,X,X
+1,40,Wigglytuff,Normal,Fairy,435,Jigglypuff,Final,Stone,X,X
+1,41,Zubat,Poison,Flying,245,Zubat,Base,X,X,X
+1,42,Golbat,Poison,Flying,455,Zubat,Middle,Levelling,X,X
+1,43,Oddish,Grass,Poison,320,Oddish,Base,X,X,X
+1,44,Gloom,Grass,Poison,395,Oddish,Middle,Levelling,X,X
+1,45,Vileplume,Grass,Poison,490,Oddish,Final,Stone,X,X
+1,46,Paras,Bug,Grass,285,Paras,Base,X,X,X
+1,47,Parasect,Bug,Grass,405,Paras,Final,Levelling,X,X
+1,48,Venonat,Bug,Poison,305,Venonat,Base,X,X,X
+1,49,Venomoth,Bug,Poison,450,Venonat,Final,Levelling,X,X
+1,50,Diglett,Ground,,265,Diglett,Base,X,X,X
+7,50,Alolan Diglett,Ground,Steel,265,Diglett,Base,X,X,X
+1,51,Dugtrio,Ground,,425,Diglett,Final,Levelling,X,X
+7,51,Alolan Dugtrio,Ground,Steel,425,Diglett,Final,Levelling,X,X
+1,52,Meowth,Normal,,290,Meowth,Base,X,X,X
+7,52,Alolan Meowth,Dark,,290,Meowth,Base,X,X,X
+8,52,Galarian Meowth,Steel,,290,Meowth,Base,X,X,X
+1,53,Persian,Normal,,440,Meowth,Final,Levelling,X,X
+7,53,Alolan Persian,Dark,,440,Meowth,Final,Friendship,X,X
+1,54,Psyduck,Water,,320,Psyduck,Base,X,X,X
+1,55,Golduck,Water,,500,Psyduck,Final,Levelling,X,X
+1,56,Mankey,Fighting,,305,Mankey,Base,X,X,X
+1,57,Primeape,Fighting,,455,Mankey,Middle,Levelling,X,X
+1,58,Growlithe,Fire,,350,Growlithe,Base,X,X,X
+8,58,Hisuian Growlithe,Fire,Rock,350,Growlithe,Base,X,X,X
+1,59,Arcanine,Fire,,555,Growlithe,Final,Stone,X,X
+8,59,Hisuian Arcanine,Fire,Rock,555,Growlithe,Final,Stone,X,X
+1,60,Poliwag,Water,,300,Poliwag,Base,X,X,X
+1,61,Poliwhirl,Water,,385,Poliwag,Middle,Levelling,X,X
+1,62,Poliwrath,Water,Fighting,510,Poliwag,Final,Stone,X,X
+1,63,Abra,Psychic,,310,Abra,Base,X,X,X
+1,64,Kadabra,Psychic,,400,Abra,Middle,Levelling,X,X
+1,65,Alakazam,Psychic,,500,Abra,Final,Trade,X,X
+1,66,Machop,Fighting,,305,Machop,Base,X,X,X
+1,67,Machoke,Fighting,,405,Machop,Middle,Levelling,X,X
+1,68,Machamp,Fighting,,505,Machop,Final,Trade,X,X
+1,69,Bellsprout,Grass,Poison,300,Bellsprout,Base,X,X,X
+1,70,Weepinbell,Grass,Poison,390,Bellsprout,Middle,Levelling,X,X
+1,71,Victreebel,Grass,Poison,490,Bellsprout,Final,Stone,X,X
+1,72,Tentacool,Water,Poison,335,Tentacool,Base,X,X,X
+1,73,Tentacruel,Water,Poison,515,Tentacool,Final,Levelling,X,X
+1,74,Geodude,Rock,Ground,300,Geodude,Base,X,X,X
+7,74,Alolan Geodude,Rock,Electric,300,Geodude,Base,X,X,X
+1,75,Graveler,Rock,Ground,390,Geodude,Middle,Levelling,X,X
+7,75,Alolan Graveler,Rock,Electric,390,Geodude,Middle,Levelling,X,X
+1,76,Golem,Rock,Ground,495,Geodude,Final,Trade,X,X
+7,76,Alolan Golem,Rock,Electric,495,Geodude,Final,Trade,X,X
+1,77,Ponyta,Fire,,410,Ponyta,Base,X,X,X
+8,77,Galarian Ponyta,Psychic,,410,Ponyta,Base,X,X,X
+1,78,Rapidash,Fire,,500,Ponyta,Final,Levelling,X,X
+8,78,Galarian Rapidash,Psychic,Fairy,500,Ponyta,Final,Levelling,X,X
+1,79,Slowpoke,Water,Psychic,315,Slowpoke,Base,X,X,X
+8,79,Galarian Slowpoke,Psychic,,315,Slowpoke,Base,X,X,X
+1,80,Slowbro,Water,Psychic,490,Slowpoke,Final,Levelling,X,X
+8,80,Galarian Slowbro,Poison,Psychic,490,Slowpoke,Final,Item,X,X
+1,81,Magnemite,Electric,Steel,325,Magnemite,Base,X,X,X
+1,82,Magneton,Electric,Steel,465,Magnemite,Middle,Levelling,X,X
+1,83,Farfetch'd,Normal,Flying,377,Farfetch'd,Only,X,X,X
+8,83,Galarian Farfetch'd,Fighting,,377,Farfetch'd,Base,X,X,X
+1,84,Doduo,Normal,Flying,310,Doduo,Base,X,X,X
+1,85,Dodrio,Normal,Flying,460,Doduo,Final,Levelling,X,X
+1,86,Seel,Water,,325,Seel,Base,X,X,X
+1,87,Dewgong,Water,Ice,475,Seel,Final,Levelling,X,X
+1,88,Grimer,Poison,,325,Grimer,Base,X,X,X
+7,88,Alolan Grimer,Poison,Dark,325,Grimer,Base,X,X,X
+1,89,Muk,Poison,,500,Grimer,Final,Levelling,X,X
+7,89,Alolan Muk,Poison,Dark,500,Grimer,Final,Levelling,X,X
+1,90,Shellder,Water,,305,Shellder,Base,X,X,X
+1,91,Cloyster,Water,Ice,525,Shellder,Final,Stone,X,X
+1,92,Gastly,Ghost,Poison,310,Gastly,Base,X,X,X
+1,93,Haunter,Ghost,Poison,405,Gastly,Middle,Levelling,X,X
+1,94,Gengar,Ghost,Poison,500,Gastly,Final,Trade,X,X
+1,95,Onix,Rock,Ground,385,Onix,Base,X,X,X
+1,96,Drowzee,Psychic,,328,Drowzee,Base,X,X,X
+1,97,Hypno,Psychic,,483,Drowzee,Final,Levelling,X,X
+1,98,Krabby,Water,,325,Krabby,Base,X,X,X
+1,99,Kingler,Water,,475,Krabby,Final,Levelling,X,X
+1,100,Voltorb,Electric,,330,Voltorb,Base,X,X,X
+8,100,Hisuian Voltorb,Electric,Grass,330,Voltorb,Base,X,X,X
+1,101,Electrode,Electric,,490,Voltorb,Final,Levelling,X,X
+8,101,Hisuian Electrode,Electric,Grass,490,Voltorb,Final,Stone,X,X
+1,102,Exeggcute,Grass,Psychic,325,Exeggcute,Base,X,X,X
+1,103,Exeggutor,Grass,Psychic,530,Exeggcute,Final,Stone,X,X
+7,103,Alolan Exeggutor,Grass,Dragon,530,Exeggcute,Final,Stone,X,X
+1,104,Cubone,Ground,,320,Cubone,Base,X,X,X
+1,105,Marowak,Ground,,425,Cubone,Final,Levelling,X,X
+7,105,Alolan Marowak,Fire,Ghost,425,Cubone,Final,Levelling,Time,X
+1,106,Hitmonlee,Fighting,,455,Tyrogue,Split,Levelling,Stats,X
+1,107,Hitmonchan,Fighting,,455,Tyrogue,Split,Levelling,Stats,X
+1,108,Lickitung,Normal,,385,Lickitung,Base,X,X,X
+1,109,Koffing,Poison,,340,Koffing,Base,X,X,X
+1,110,Weezing,Poison,,490,Koffing,Final,Levelling,X,X
+8,110,Galarian Weezing,Poison,Fairy,490,Koffing,Final,Levelling,X,X
+1,111,Rhyhorn,Ground,Rock,345,Rhyhorn,Base,X,X,X
+1,112,Rhydon,Ground,Rock,485,Rhyhorn,Middle,Levelling,X,X
+1,113,Chansey,Normal,,450,Chansey,Middle,Levelling,Held Item,Time
+1,114,Tangela,Grass,,435,Tangela,Base,X,X,X
+1,115,Kangaskhan,Normal,,490,Kangaskhan,Only,X,X,X
+1,116,Horsea,Water,,295,Horsea,Base,X,X,X
+1,117,Seadra,Water,,440,Horsea,Middle,Levelling,X,X
+1,118,Goldeen,Water,,320,Goldeen,Base,X,X,X
+1,119,Seaking,Water,,450,Goldeen,Final,Levelling,X,X
+1,120,Staryu,Water,,340,Staryu,Base,X,X,X
+1,121,Starmie,Water,Psychic,520,Staryu,Final,Stone,X,X
+1,122,Mr. Mime,Psychic,Fairy,460,Mr. Mime,Final,Levelling,Known Move,X
+8,122,Galarian Mr. Mime,Ice,Psychic,460,Mr. Mime,Middle,Levelling,Known Move,X
+1,123,Scyther,Bug,Flying,500,Scyther,Base,X,X,X
+1,124,Jynx,Ice,Psychic,455,Jynx,Final,Levelling,X,X
+1,125,Electabuzz,Electric,,490,Electabuzz,Middle,Levelling,X,X
+1,126,Magmar,Fire,,495,Magmar,Middle,Levelling,X,X
+1,127,Pinsir,Bug,,500,Pinsir,Only,X,X,X
+1,128,Tauros,Normal,,490,Tauros,Only,X,X,X
+9,128,Paldean Tauros (Combat),Fighting,,490,Tauros,Only,X,X,X
+9,128,Paldean Tauros (Blaze),Fighting,Fire,490,Tauros,Only,X,X,X
+9,128,Paldean Tauros (Aqua),Fighting,Water,490,Tauros,Only,X,X,X
+1,129,Magikarp,Water,,200,Magikarp,Base,X,X,X
+1,130,Gyarados,Water,Flying,540,Magikarp,Final,Levelling,X,X
+1,131,Lapras,Water,Ice,535,Lapras,Only,X,X,X
+1,132,Ditto,Normal,,288,Ditto,Only,X,X,X
+1,133,Eevee,Normal,,325,Eevee,Base,X,X,X
+1,134,Vaporeon,Water,,525,Eevee,Split,Stone,X,X
+1,135,Jolteon,Electric,,525,Eevee,Split,Stone,X,X
+1,136,Flareon,Fire,,525,Eevee,Split,Stone,X,X
+1,137,Porygon,Normal,,395,Porygon,Base,X,X,X
+1,138,Omanyte,Rock,Water,355,Omanyte,Base,X,X,X
+1,139,Omastar,Rock,Water,495,Omanyte,Final,Levelling,X,X
+1,140,Kabuto,Rock,Water,355,Kabuto,Base,X,X,X
+1,141,Kabutops,Rock,Water,495,Kabuto,Final,Levelling,X,X
+1,142,Aerodactyl,Rock,Flying,515,Aerodactyl,Only,X,X,X
+1,143,Snorlax,Normal,Flying,540,Snorlax,Final,Friendship,X,X
+1,144,Articuno,Ice,Flying,580,Articuno,Only,X,X,X
+8,144,Galarian Articuno,Psychic,Flying,580,Articuno,Only,X,X,X
+1,145,Zapdos,Electric,Flying,580,Zapdos,Only,X,X,X
+8,145,Galarian Zapdos,Fighting,Flying,580,Zapdos,Only,X,X,X
+1,146,Moltres,Fire,Flying,580,Moltres,Only,X,X,X
+8,146,Galarian Moltres,Dark,Flying,580,Moltres,Only,X,X,X
+1,147,Dratini,Dragon,,300,Dratini,Base,X,X,X
+1,148,Dragonair,Dragon,,420,Dratini,Middle,Levelling,X,X
+1,149,Dragonite,Dragon,Flying,600,Dratini,Final,Levelling,X,X
+1,150,Mewtwo,Psychic,,680,Mewtwo,Only,X,X,X
+1,151,Mew,Psychic,,600,Mew,Only,X,X,X
+2,152,Chikorita,Grass,,318,Chikorita,Base,X,X,X
+2,153,Bayleef,Grass,,405,Chikorita,Middle,Levelling,X,X
+2,154,Meganium,Grass,,525,Chikorita,Final,Levelling,X,X
+2,155,Cyndaquil,Fire,,309,Cyndaquil,Base,X,X,X
+2,156,Quilava,Fire,,405,Cyndaquil,Middle,Levelling,X,X
+2,157,Typhlosion,Fire,,534,Cyndaquil,Final,Levelling,X,X
+8,157,Hisuian Typhlosion,Fire,Ghost,534,Cyndaquil,Final,Levelling,X,X
+2,158,Totodile,Water,,314,Totodile,Base,X,X,X
+2,159,Croconaw,Water,,405,Totodile,Middle,Levelling,X,X
+2,160,Feraligatr,Water,,530,Totodile,Final,Levelling,X,X
+2,161,Sentret,Normal,,215,Sentret,Base,X,X,X
+2,162,Furret,Normal,,415,Sentret,Final,Levelling,X,X
+2,163,Hoothoot,Normal,Flying,262,Hoothoot,Base,X,X,X
+2,164,Noctowl,Normal,Flying,452,Hoothoot,Final,Levelling,X,X
+2,165,Ledyba,Bug,Flying,265,Ledyba,Base,X,X,X
+2,166,Ledian,Bug,Flying,390,Ledyba,Final,Levelling,X,X
+2,167,Spinarak,Bug,Poison,250,Spinarak,Base,X,X,X
+2,168,Ariados,Bug,Poison,400,Spinarak,Final,Levelling,X,X
+2,169,Crobat,Poison,Flying,535,Zubat,Final,Friendship,X,X
+2,170,Chinchou,Water,Electric,330,Chinchou,Base,X,X,X
+2,171,Lanturn,Water,Electric,460,Chinchou,Final,Levelling,X,X
+2,172,Pichu,Electric,,205,Pikachu,Base,X,X,X
+2,173,Cleffa,Fairy,,218,Clefairy,Base,X,X,X
+2,174,Igglybuff,Normal,Fairy,210,Jigglypuff,Base,X,X,X
+2,175,Togepi,Fairy,,245,Togepi,Base,X,X,X
+2,176,Togetic,Fairy,Flying,405,Togepi,Middle,Friendship,X,X
+2,177,Natu,Psychic,Flying,320,Natu,Base,X,X,X
+2,178,Xatu,Psychic,Flying,470,Natu,Final,Levelling,X,X
+2,179,Mareep,Electric,,280,Mareep,Base,X,X,X
+2,180,Flaaffy,Electric,,365,Mareep,Middle,Levelling,X,X
+2,181,Ampharos,Electric,,510,Mareep,Final,Levelling,X,X
+2,182,Bellossom,Grass,,490,Oddish,Split,Stone,X,X
+2,183,Marill,Water,Fairy,250,Marill,Middle,Friendship,X,X
+2,184,Azumarill,Water,Fairy,420,Marill,Final,Levelling,X,X
+2,185,Sudowoodo,Rock,,410,Sudowoodo,Final,Known Move,X,X
+2,186,Politoed,Water,,500,Poliwag,Split,Trade,Held Item,X
+2,187,Hoppip,Grass,Flying,250,Hoppip,Base,X,X,X
+2,188,Skiploom,Grass,Flying,340,Hoppip,Middle,Levelling,X,X
+2,189,Jumpluff,Grass,Flying,460,Hoppip,Final,Levelling,X,X
+2,190,Aipom,Normal,,360,Aipom,Base,X,X,X
+2,191,Sunkern,Grass,,180,Sunkern,Base,X,X,X
+2,192,Sunflora,Grass,,425,Sunkern,Final,Stone,X,X
+2,193,Yanma,Bug,Flying,390,Yanma,Base,X,X,X
+2,194,Wooper,Water,Ground,210,Wooper,Base,X,X,X
+9,194,Paldean Wooper,Poison,Ground,210,Wooper,Base,X,X,X
+2,195,Quagsire,Water,Ground,430,Wooper,Final,Levelling,X,X
+2,196,Espeon,Psychic,,525,Eevee,Split,Friendship,Time,X
+2,197,Umbreon,Dark,,525,Eevee,Split,Friendship,Time,X
+2,198,Murkrow,Dark,Flying,405,Murkrow,Base,X,X,X
+2,199,Slowking,Water,Psychic,490,Slowpoke,Split,Trade,Held Item,X
+8,199,Galarian Slowking,Poison,Psychic,490,Slowpoke,Split,Item,X,X
+2,200,Misdreavus,Ghost,,435,Misdreavus,Base,X,X,X
+2,201,Unown,Psychic,,336,Unown,Only,X,X,X
+2,202,Wobbuffet,Psychic,,405,Wobbuffet,Final,Levelling,X,X
+2,203,Girafarig,Normal,Psychic,455,Girafarig,Base,X,X,X
+2,204,Pineco,Bug,,290,Pineco,Base,X,X,X
+2,205,Forretress,Bug,Steel,465,Pineco,Final,Levelling,X,X
+2,206,Dunsparce,Normal,,415,Dunsparce,Base,X,X,X
+2,207,Gligar,Ground,Flying,430,Gligar,Base,X,X,X
+2,208,Steelix,Steel,Ground,510,Onix,Final,Trade,Held Item,X
+2,209,Snubbull,Fairy,,300,Snubbull,Base,X,X,X
+2,210,Granbull,Fairy,,450,Snubbull,Final,Levelling,X,X
+2,211,Qwilfish,Water,Poison,440,Qwilfish,Only,X,X,X
+8,211,Hisuian Qwilfish,Dark,Poison,440,Qwilfish,Base,X,X,X
+2,212,Scizor,Bug,Steel,500,Scyther,Final,Trade,Held Item,X
+2,213,Shuckle,Bug,Rock,505,Shuckle,Only,X,X,X
+2,214,Heracross,Bug,Fighting,500,Heracross,Only,X,X,X
+2,215,Sneasel,Dark,Ice,430,Sneasel,Base,X,X,X
+8,215,Hisuian Sneasel,Fighting,Poison,430,Sneasel,Base,X,X,X
+2,216,Teddirusa,Normal,,330,Teddiursa,Base,X,X,X
+2,217,Ursaring,Normal,,500,Teddiursa,Final,Levelling,X,X
+2,218,Slugma,Fire,,250,Slugma,Base,X,X,X
+2,219,Magcargo,Fire,Rock,430,Slugma,Final,Levelling,X,X
+2,220,Swinub,Ice,Ground,250,Swinub,Base,X,X,X
+2,221,Piloswine,Ice,Ground,450,Swinub,Middle,Levelling,X,X
+2,222,Corsola,Water,Rock,410,Corsola,Only,X,X,X
+8,222,Galarian Corsola,Ghost,,410,Corsola,Base,X,X,X
+2,223,Remoraid,Water,,300,Remoraid,Base,X,X,X
+2,224,Octillery,Water,,480,Remoraid,Final,Levelling,X,X
+2,225,Delibird,Ice,Flying,330,Delibird,Only,X,X,X
+2,226,Mantine,Water,Flying,485,Mantine,Final,Levelling,Party Pokemon,X
+2,227,Skarmory,Steel,Flying,465,Skarmory,Only,X,X,X
+2,228,Houndour,Dark,Fire,330,Houndour,Base,X,X,X
+2,229,Houndoom,Dark,Fire,500,Houndour,Final,Levelling,X,X
+2,230,Kingdra,Water,Dragon,540,Horsea,Final,Trade,Held Item,X
+2,231,Phanpy,Ground,,330,Phanpy,Base,X,X,X
+2,232,Donphan,Ground,,500,Phanpy,Final,Levelling,X,X
+2,233,Porygon2,Normal,,515,Porygon,Middle,Trade,Held Item,X
+2,234,Stantler,Normal,,465,Stantler,Base,X,X,X
+2,235,Smeargle,Normal,,250,Smeargle,Only,X,X,X
+2,236,Tyrogue,Fighting,,210,Tyrogue,Base,X,X,X
+2,237,Hitmontop,Fighting,,455,Tyrogue,Split,Levelling,Stats,X
+2,238,Smoochum,Ice,Psychic,305,Jynx,Base,X,X,X
+2,239,Elekid,Electric,,360,Electabuzz,Base,X,X,X
+2,240,Magby,Fire,,365,Magmar,Base,X,X,X
+2,241,Miltank,Normal,,490,Miltank,Only,X,X,X
+2,242,Blissey,Normal,,540,Chansey,Final,Friendship,X,X
+2,243,Raikou,Electric,,580,Raikou,Only,X,X,X
+2,244,Entei,Fire,,580,Entei,Only,X,X,X
+2,245,Suicune,Water,,580,Suicune,Only,X,X,X
+2,246,Larvitar,Rock,Ground,300,Larvitar,Base,X,X,X
+2,247,Pupitar,Rock,Ground,410,Larvitar,Middle,Levelling,X,X
+2,248,Tyranitar,Rock,Dark,600,Larvitar,Final,Levelling,X,X
+2,249,Lugia,Psychic,Flying,680,Lugia,Only,X,X,X
+2,250,Ho-Oh,Fire,Flying,680,Ho-Oh,Only,X,X,X
+2,251,Celebi,Psychic,Grass,600,Celebi,Only,X,X,X
+3,252,Treecko,Grass,,310,Treecko,Base,X,X,X
+3,253,Grovyle,Grass,,405,Treecko,Middle,Levelling,X,X
+3,254,Sceptile,Grass,,530,Treecko,Final,Levelling,X,X
+3,255,Torchic,Fire,,310,Torchic,Base,X,X,X
+3,256,Combusken,Fire,Fighting,405,Torchic,Middle,Levelling,X,X
+3,257,Blaziken,Fire,Fighting,530,Torchic,Final,Levelling,X,X
+3,258,Mudkip,Water,,310,Mudkip,Base,X,X,X
+3,259,Marshtomp,Water,Ground,405,Mudkip,Middle,Levelling,X,X
+3,260,Swampert,Water,Ground,535,Mudkip,Final,Levelling,X,X
+3,261,Poochyena,Dark,,220,Poochyena,Base,X,X,X
+3,262,Mightyena,Dark,,420,Poochyena,Final,Levelling,X,X
+3,263,Zigzagoon,Normal,,240,Zigzagoon,Base,X,X,X
+8,263,Galarian Zigzagoon,Dark,Normal,240,Zigzagoon,Base,X,X,X
+3,264,Linoone,Normal,,420,Zigzagoon,Final,Levelling,X,X
+8,264,Galarian Linoone,Dark,Normal,420,Zigzagoon,Middle,Levelling,X,X
+3,265,Wurmple,Bug,,195,Wurmple,Base,X,X,X
+3,266,Silcoon,Bug,,205,Wurmple,Middle,Personality Value,X,X
+3,267,Beautifly,Bug,Flying,395,Wurmple,Final,Levelling,X,X
+3,268,Cascoon,Bug,,205,Wurmple,Middle,Personality Value,X,X
+3,269,Dustox,Bug,Poison,385,Wurmple,Final,Levelling,X,X
+3,270,Lotad,Water,Grass,220,Lotad,Base,X,X,X
+3,271,Lombre,Water,Grass,340,Lotad,Middle,Levelling,X,X
+3,272,Ludicolo,Water,Grass,480,Lotad,Final,Stone,X,X
+3,273,Seedot,Grass,,220,Seedot,Base,X,X,X
+3,274,Nuzleaf,Grass,Dark,340,Seedot,Middle,Levelling,X,X
+3,275,Shiftry,Grass,Dark,480,Seedot,Final,Stone,X,X
+3,276,Taillow,Normal,Flying,270,Taillow,Base,X,X,X
+3,277,Swellow,Normal,Flying,455,Taillow,Final,Levelling,X,X
+3,278,Wingull,Water,Flying,270,Wingull,Base,X,X,X
+3,279,Pelipper,Water,Flying,440,Wingull,Final,Levelling,X,X
+3,280,Ralts,Psychic,Fairy,198,Ralts,Base,X,X,X
+3,281,Kirlia,Psychic,Fairy,278,Ralts,Middle,Levelling,X,X
+3,282,Gardevoir,Psychic,Fairy,518,Ralts,Final,Levelling,X,X
+3,283,Surskit,Bug,Water,269,Surskit,Base,X,X,X
+3,284,Masquerain,Bug,Flying,454,Surskit,Final,Levelling,X,X
+3,285,Shroomish,Grass,,295,Shroomish,Base,X,X,X
+3,286,Breloom,Grass,Fighting,460,Shroomish,Final,Levelling,X,X
+3,287,Slakoth,Normal,,280,Slakoth,Base,X,X,X
+3,288,Vigoroth,Normal,,440,Slakoth,Middle,Levelling,X,X
+3,289,Slaking,Normal,,670,Slakoth,Final,Levelling,X,X
+3,290,Nincada,Bug,Ground,266,Nincada,Base,X,X,X
+3,291,Ninjask,Bug,Flying,456,Nincada,Final,Levelling,X,X
+3,292,Shedinja,Bug,Ghost,236,Nincada,Additional,Levelling,Party Composition,Item
+3,293,Whismur,Normal,,240,Whismur,Base,X,X,X
+3,294,Loudred,Normal,,360,Whismur,Middle,Levelling,X,X
+3,295,Exploud,Normal,,490,Whismur,Final,Levelling,X,X
+3,296,Makuhita,Fighting,,237,Makuhita,Base,X,X,X
+3,297,Hariyama,Fighting,,474,Makuhita,Final,Levelling,X,X
+3,298,Azurill,Normal,Fairy,190,Marill,Base,X,X,X
+3,299,Nosepass,Rock,,375,Nosepass,Base,X,X,X
+3,300,Skitty,Normal,,260,Skitty,Base,X,X,X
+3,301,Delcatty,Normal,,400,Skitty,Final,Stone,X,X
+3,302,Sableye,Dark,Ghost,380,Sableye,Only,X,X,X
+3,303,Mawile,Steel,Fairy,380,Mawile,Only,X,X,X
+3,304,Aron,Steel,Rock,330,Aron,Base,X,X,X
+3,305,Lairon,Steel,Rock,430,Aron,Middle,Levelling,X,X
+3,306,Aggron,Steel,Rock,530,Aron,Final,Levelling,X,X
+3,307,Meditite,Fighting,Psychic,280,Meditite,Base,X,X,X
+3,308,Medicham,Fighting,Psychic,410,Meditite,Final,Levelling,X,X
+3,309,Electrike,Electric,,295,Electrike,Base,X,X,X
+3,310,Manectric,Electric,,475,Electrike,Final,Levelling,X,X
+3,311,Plusle,Electric,,405,Plusle,Only,X,X,X
+3,312,Minun,Electric,,405,Minun,Only,X,X,X
+3,313,Volbeat,Bug,,430,Volbeat,Only,X,X,X
+3,314,Illumise,Bug,,430,Illumise,Only,X,X,X
+3,315,Roselia,Grass,Poison,400,Roselia,Middle,Friendship,Time,X
+3,316,Gulpin,Poison,,302,Gulpin,Base,X,X,X
+3,317,Swalot,Poison,,467,Gulpin,Final,Levelling,X,X
+3,318,Carvanha,Water,Dark,305,Carvanha,Base,X,X,X
+3,319,Sharpedo,Water,Dark,460,Carvanha,Final,Levelling,X,X
+3,320,Wailmer,Water,,400,Wailmer,Base,X,X,X
+3,321,Wailord,Water,,500,Wailmer,Final,Levelling,X,X
+3,322,Numel,Fire,Ground,305,Numel,Base,X,X,X
+3,323,Camerupt,Fire,Ground,460,Numel,Final,Levelling,X,X
+3,324,Torkoal,Fire,,470,Torkoal,Only,X,X,X
+3,325,Spoink,Psychic,,330,Spoink,Base,X,X,X
+3,326,Grumpig,Psychic,,470,Spoink,Final,Levelling,X,X
+3,327,Spinda,Normal,,360,Spinda,Only,X,X,X
+3,328,Trapinch,Ground,,290,Trapinch,Base,X,X,X
+3,329,Vibrava,Ground,Dragon,340,Trapinch,Middle,Levelling,X,X
+3,330,Flygon,Ground,Dragon,520,Trapinch,Final,Levelling,X,X
+3,331,Cacnea,Grass,,335,Cacnea,Base,X,X,X
+3,332,Cacturne,Grass,Dark,475,Cacnea,Final,Levelling,X,X
+3,333,Swablu,Normal,Flying,310,Swablu,Base,X,X,X
+3,334,Altaria,Dragon,Flying,490,Swablu,Final,Levelling,X,X
+3,335,Zangoose,Normal,,458,Zangoose,Only,X,X,X
+3,336,Seviper,Poison,,458,Saviper,Only,X,X,X
+3,337,Lunatone,Rock,Psychic,460,Lunatone,Only,X,X,X
+3,338,Solrock,Rock,Psychic,460,Solrock,Only,X,X,X
+3,339,Barboach,Water,Ground,288,Barboach,Base,X,X,X
+3,340,Whiscash,Water,Ground,468,Barboach,Final,Levelling,X,X
+3,341,Corphish,Water,,308,Corphish,Base,X,X,X
+3,342,Crawdaunt,Water,Dark,468,Corphish,Final,Levelling,X,X
+3,343,Baltoy,Ground,Psychic,300,Baltoy,Base,X,X,X
+3,344,Claydol,Ground,Psychic,500,Baltoy,Final,Levelling,X,X
+3,345,Lileep,Rock,Grass,255,Lileep,Base,X,X,X
+3,346,Cradily,Rock,Grass,495,Lileep,Final,Levelling,X,X
+3,347,Anorith,Rock,Bug,355,Anorith,Base,X,X,X
+3,348,Armaldo,Rock,Bug,495,Anorith,Final,Levelling,X,X
+3,349,Feebas,Water,,200,Feebas,Base,X,X,X
+3,350,Milotic,Water,,540,Feebas,Final,Trade,Held Item,X
+3,351,Castform,Normal,,420,Castform,Only,X,X,X
+3,352,Kecleon,Normal,,440,Kecleon,Only,X,X,X
+3,353,Shuppet,Ghost,,295,Shuppet,Base,X,X,X
+3,354,Banette,Ghost,,455,Shuppet,Final,Levelling,X,X
+3,355,Duskull,Ghost,,295,Duskull,Base,X,X,X
+3,356,Dusclops,Ghost,,455,Duskull,Middle,Levelling,X,X
+3,357,Tropius,Grass,Flying,460,Tropius,Only,X,X,X
+3,358,Chimecho,Psychic,,455,Chimecho,Final,Friendship,Time,X
+3,359,Absol,Dark,,465,Absol,Only,X,X,X
+3,360,Wynaut,Psychic,,260,Wobbuffet,Base,X,X,X
+3,361,Snorunt,Ice,,300,Snorunt,Base,X,X,X
+3,362,Glalie,Ice,,480,Snorunt,Final,Levelling,X,X
+3,363,Spheal,Ice,Water,290,Spheal,Base,X,X,X
+3,364,Sealeo,Ice,Water,410,Spheal,Middle,Levelling,X,X
+3,365,Walrein,Ice,Water,530,Spheal,Final,Levelling,X,X
+3,366,Clamperl,Water,,345,Clamperl,Base,X,X,X
+3,367,Huntail,Water,,485,Clamperl,Split,Trade,Held Item,X
+3,368,Gorebyss,Water,,485,Clamperl,Split,Trade,Held Item,X
+3,369,Relicanth,Water,Rock,485,Relicanth,Only,X,X,X
+3,370,Luvdisc,Water,,330,Luvdisc,Only,X,X,X
+3,371,Bagon,Dragon,,300,Bagon,Base,X,X,X
+3,372,Shelgon,Dragon,,420,Bagon,Middle,Levelling,X,X
+3,373,Salamence,Dragon,Flying,600,Bagon,Final,Levelling,X,X
+3,374,Beldum,Steel,Psychic,300,Beldum,Base,X,X,X
+3,375,Metang,Steel,Psychic,420,Beldum,Middle,Levelling,X,X
+3,376,Metagross,Steel,Psychic,600,Beldum,Final,Levelling,X,X
+3,377,Regirock,Rock,,580,Regirock,Only,X,X,X
+3,378,Regice,Ice,,580,Regice,Only,X,X,X
+3,379,Registeel,Steel,,580,Registeel,Only,X,X,X
+3,380,Latias,Dragon,Psychic,600,Latias,Only,X,X,X
+3,381,Latios,Dragon,Psychic,600,Latios,Only,X,X,X
+3,382,Kyogre,Water,,670,Kyogre,Only,X,X,X
+3,383,Groudon,Ground,,670,Groudon,Only,X,X,X
+3,384,Rayquaza,Dragon,Flying,680,Rayquaza,Only,X,X,X
+3,385,Jirachi,Steel,Psychic,600,Jirachi,Only,X,X,X
+3,386,Deoxys,Psychic,,600,Deoxys,Only,X,X,X
+4,387,Turtwig,Grass,,318,Turtwig,Base,X,X,X
+4,388,Grotle,Grass,,405,Turtwig,Middle,Levelling,X,X
+4,389,Torterra,Grass,Ground,525,Turtwig,Final,Levelling,X,X
+4,390,Chimchar,Fire,,309,Chimchar,Base,X,X,X
+4,391,Monferno,Fire,Fighting,405,Chimchar,Middle,Levelling,X,X
+4,392,Infernape,Fire,Fighting,534,Chimchar,Final,Levelling,X,X
+4,393,Piplup,Water,,314,Piplup,Base,X,X,X
+4,394,Prinplup,Water,,405,Piplup,Middle,Levelling,X,X
+4,395,Empoleon,Water,Steel,530,Piplup,Final,Levelling,X,X
+4,396,Starly,Normal,Flying,245,Starly,Base,X,X,X
+4,397,Staravia,Normal,Flying,340,Starly,Middle,Levelling,X,X
+4,398,Staraptor,Normal,Flying,485,Starly,Final,Levelling,X,X
+4,399,Bidoof,Normal,,250,Bidoof,Base,X,X,X
+4,400,Bibarel,Normal,Water,410,Bidoof,Final,Levelling,X,X
+4,401,Kricketot,Bug,,194,Kricketot,Base,X,X,X
+4,402,Kricketune,Bug,,384,Kricketot,Final,Levelling,X,X
+4,403,Shinx,Electric,,263,Shinx,Base,X,X,X
+4,404,Luxio,Electric,,363,Shinx,Middle,Levelling,X,X
+4,405,Luxray,Electric,,523,Shinx,Final,Levelling,X,X
+4,406,Budew,Grass,Poison,280,Roselia,Base,X,X,X
+4,407,Roserade,Grass,Poison,515,Roselia,Final,Stone,X,X
+4,408,Cranidos,Rock,,350,Cranidos,Base,X,X,X
+4,409,Rampardos,Rock,,495,Cranidos,Final,Levelling,X,X
+4,410,Shieldon,Rock,Steel,350,Shieldon,Base,X,X,X
+4,411,Bastiodon,Rock,Steel,495,Shieldon,Final,Levelling,X,X
+4,412,Burmy,Bug,,224,Burmy,Base,X,X,X
+4,413,Wormadam (Plant),Bug,Grass,424,Burmy,Final,Levelling,Place,Gender
+4,413,Wormadam (Sandy),Bug,Ground,424,Burmy,Final,Levelling,Place,Gender
+4,413,Wormadam (Trash),Bug,Steel,424,Burmy,Final,Levelling,Place,Gender
+4,414,Mothim,Bug,Flying,424,Burmy,Final,Levelling,Gender,X
+4,415,Combee,Bug,Flying,244,Combee,Base,X,X,X
+4,416,Vespiquen,Bug,Flying,474,Combee,Final,Levelling,Gender,X
+4,417,Pachirisu,Electric,,405,Pachirisu,Only,X,X,X
+4,418,Buizel,Water,,330,Buizel,Base,X,X,X
+4,419,Floatzel,Water,,495,Buizel,Final,Levelling,X,X
+4,420,Cherubi,Grass,,275,Cherubi,Base,X,X,X
+4,421,Cherrim,Grass,,450,Cherubi,Final,Levelling,X,X
+4,422,Shellos,Water,,325,Shellos,Base,X,X,X
+4,423,Gastrodon,Water,Ground,475,Shellos,Final,Levelling,X,X
+4,424,Ambipom,Normal,,482,Aipom,Final,Known Move,X,X
+4,425,Drifloon,Ghost,Flying,348,Drifloon,Base,X,X,X
+4,426,Drifblim,Ghost,Flying,498,Drifloon,Final,Levelling,X,X
+4,427,Buneary,Normal,,350,Buneary,Base,X,X,X
+4,428,Lopunny,Normal,,480,Buneary,Final,Friendship,X,X
+4,429,Mismagius,Ghost,,495,Misdreavus,Final,Stone,X,X
+4,430,Honchkrow,Dark,Flying,505,Murkrow,Final,Stone,X,X
+4,431,Glameow,Normal,,310,Glameow,Base,X,X,X
+4,432,Purugly,Normal,,452,Glameow,Final,Levelling,X,X
+4,433,Chingling,Psychic,,285,Chimecho,Base,X,X,X
+4,434,Stunky,Poison,Dark,329,Stunky,Base,X,X,X
+4,435,Skuntank,Poison,Dark,479,Stunky,Final,Levelling,X,X
+4,436,Bronzor,Steel,Psychic,300,Bronzor,Base,X,X,X
+4,437,Bronzong,Steel,Psychic,500,Bronzor,Final,Levelling,X,X
+4,438,Bonsly,Rock,,290,Sudowoodo,Base,X,X,X
+4,439,Mime Jr.,Psychic,Fairy,310,Mr. Mime,Base,X,X,X
+4,440,Happiny,Normal,,220,Chansey,Base,X,X,X
+4,441,Chatot,Normal,Flying,411,Chatot,Only,X,X,X
+4,442,Spiritomb,Ghost,Dark,485,Spiritomb,Only,X,X,X
+4,443,Gible,Dragon,Ground,300,Gible,Base,X,X,X
+4,444,Gabite,Dragon,Ground,410,Gible,Middle,Levelling,X,X
+4,445,Garchomp,Dragon,Ground,600,Gible,Final,Levelling,X,X
+4,446,Muchlax,Normal,,390,Snorlax,Base,X,X,X
+4,447,Riolu,Fighting,,285,Lucario,Base,X,X,X
+4,448,Lucario,Fighting,Steel,525,Lucario,Final,Friendship,Time,X
+4,449,Hippopotas,Ground,,330,Hippopotas,Base,X,X,X
+4,450,Hippowdon,Ground,,525,Hippopotas,Final,Levelling,X,X
+4,451,Skorupi,Poison,Bug,330,Skorupi,Base,X,X,X
+4,452,Drapion,Poison,Dark,500,Skorupi,Final,Levelling,X,X
+4,453,Croagunk,Poison,Fighting,300,Croagunk,Base,X,X,X
+4,454,Toxicroak,Poison,Fighting,490,Croagunk,Final,Levelling,X,X
+4,455,Carnivine,Grass,,454,Carnivine,Only,X,X,X
+4,456,Finneon,Water,,330,Finneon,Base,X,X,X
+4,457,Lumineon,Water,,460,Finneon,Final,Levelling,X,X
+4,458,Mantyke,Water,Flying,345,Mantine,Base,X,X,X
+4,459,Snover,Grass,Ice,334,Snover,Base,X,X,X
+4,460,Abomasnow,Grass,Ice,494,Snover,Final,Levelling,X,X
+4,461,Weavile,Dark,Ice,510,Sneasel,Final,Held Item,Time,X
+4,462,Magnezone,Electric,Steel,535,Magnemite,Final,Stone,X,X
+4,463,Lickilicky,Normal,,515,Lickitung,Final,Known Move,X,X
+4,464,Rhyperior,Ground,Rock,535,Rhyhorn,Final,Trade,Held Item,X
+4,465,Tangrowth,Grass,,535,Tangela,Final,Known Move,X,X
+4,466,Electivire,Electric,,540,Electabuzz,Final,Trade,Held Item,X
+4,467,Magmortar,Fire,,540,Magmar,Final,Trade,Held Item,X
+4,468,Togekiss,Fairy,Flying,545,Togepi,Final,Stone,X,X
+4,469,Yanmega,Bug,Flying,515,Yanma,Final,Known Move,X,X
+4,470,Leafeon,Grass,,525,Eevee,Final,Stone,X,X
+4,471,Glaceon,Ice,,525,Eevee,Final,Stone,X,X
+4,472,Gliscor,Ground,Flying,510,Gligar,Final,Held Item,Time,X
+4,473,Mamoswine,Ice,Ground,530,Swinub,Final,Known Move,X,X
+4,474,Porygon-Z,Normal,,535,Porygon,Final,Trade,Held Item,X
+4,475,Gallade,Psychic,Fighting,518,Ralts,Final,Stone,Gender,X
+4,476,Probopass,Rock,Steel,525,Nosepass,Final,Stone,X,X
+4,477,Dusknoir,Ghost,,525,Duskull,Final,Trade,Held Item,X
+4,478,Frosslass,Ice,Ghost,480,Snorunt,Final,Stone,Gender,X
+4,479,Rotom,Electric,Ghost,440,Rotom,Only,X,X,X
+4,479,Heat Rotom,Electric,Fire,520,Rotom,Only,X,X,X
+4,479,Wash Rotom,Electric,Water,520,Rotom,Only,X,X,X
+4,479,Frost Rotom,Electric,Ice,520,Rotom,Only,X,X,X
+4,479,Fan Rotom,Electric,Flying,520,Rotom,Only,X,X,X
+4,479,Mow Rotom,Electric,Grass,520,Rotom,Only,X,X,X
+4,480,Uxie,Psychic,,580,Uxie,Only,X,X,X
+4,481,Mesprit,Psychic,,580,Mesprit,Only,X,X,X
+4,482,Azelf,Psychic,,580,Azelf,Only,X,X,X
+4,483,Dialga,Steel,Dragon,680,Dialga,Only,X,X,X
+4,484,Palkia,Water,Dragon,680,Palkia,Only,X,X,X
+4,485,Heatran,Fire,Steel,600,Heatran,Only,X,X,X
+4,486,Regigigas,Normal,,670,Regigigas,Only,X,X,X
+4,487,Giratina,Ghost,Dragon,680,Giratina,Only,X,X,X
+4,488,Cresselia,Psychic,,600,Cresselia,Only,X,X,X
+4,489,Phione,Water,,480,Phione,Only,X,X,X
+4,490,Manaphy,Water,,600,Manaphy,Only,X,X,X
+4,491,Darkrai,Dark,,600,Darkrai,Only,X,X,X
+4,492,Shaymin,Grass,,600,Shaymin,Only,X,X,X
+4,492,Shaymin (Sky),Grass,Flying,600,Shaymin,Only,X,X,X
+4,493,Arceus,Normal,,720,Arceus,Only,X,X,X
+5,494,Victini,Psychic,Fire,600,Victini,Only,X,X,X
+5,495,Snivy,Grass,,308,Snivy,Base,X,X,X
+5,496,Servine,Grass,,413,Snivy,Middle,Levelling,X,X
+5,497,Serperior,Grass,,528,Snivy,Final,Levelling,X,X
+5,498,Tepig,Fire,,308,Tepig,Base,X,X,X
+5,499,Pignite,Fire,Fighting,418,Tepig,Middle,Levelling,X,X
+5,500,Emboar,Fire,Fighting,528,Tepig,Final,Levelling,X,X
+5,501,Oshawott,Water,,308,Oshawott,Base,X,X,X
+5,502,Dewott,Water,,413,Oshawott,Middle,Levelling,X,X
+5,503,Samurott,Water,,528,Oshawott,Final,Levelling,X,X
+8,503,Hisuian Samurott,Water,Dark,528,Oshawott,Final,Levelling,X,X
+5,504,Patrat,Normal,,255,Patrat,Base,X,X,X
+5,505,Watchog,Normal,,420,Patrat,Final,Levelling,X,X
+5,506,Lillipup,Normal,,275,Lillipup,Base,X,X,X
+5,507,Herdier,Normal,,370,Lillipup,Middle,Levelling,X,X
+5,508,Stoutland,Normal,,500,Lillipup,Final,Levelling,X,X
+5,509,Purrloin,Dark,,281,Purrloin,Base,X,X,X
+5,510,Liepard,Dark,,446,Purrloin,Final,Levelling,X,X
+5,511,Pansage,Grass,,316,Pansage,Base,X,X,X
+5,512,Simisage,Grass,,498,Pansage,Final,Stone,X,X
+5,513,Pansear,Fire,,316,Pansear,Base,X,X,X
+5,514,Simisear,Fire,,498,Pansear,Final,Stone,X,X
+5,515,Panpour,Water,,316,Panpour,Base,X,X,X
+5,516,Simipour,Water,,498,Panpour,Final,Stone,X,X
+5,517,Munna,Psychic,,292,Munna,Base,X,X,X
+5,518,Musharna,Psychic,,487,Munna,Final,Stone,X,X
+5,519,Pidove,Normal,Flying,264,Pidove,Base,X,X,X
+5,520,Tranquill,Normal,Flying,358,Pidove,Middle,Levelling,X,X
+5,521,Unfezant,Normal,Flying,488,Pidove,Final,Levelling,X,X
+5,522,Blitzle,Electric,,295,Blitzle,Base,X,X,X
+5,523,Zebstrika,Electric,,497,Blitzle,Final,Levelling,X,X
+5,524,Roggenrola,Rock,,280,Roggenrola,Base,X,X,X
+5,525,Boldore,Rock,,390,Roggenrola,Middle,Levelling,X,X
+5,526,Gigalith,Rock,,515,Roggenrola,Final,Trade,X,X
+5,527,Woobat,Psychic,Flying,232,Woobat,Base,X,X,X
+5,528,Swoobat,Psychic,Flying,425,Woobat,Final,Friendship,X,X
+5,529,Drilbur,Ground,,328,Drilbur,Base,X,X,X
+5,530,Excadrill,Ground,Steel,508,Drilbur,Final,Levelling,X,X
+5,531,Audino,Normal,,445,Audino,Only,X,X,X
+5,532,Timburr,Fighting,,305,Timburr,Base,X,X,X
+5,533,Gurdurr,Fighting,,405,Timburr,Middle,Levelling,X,X
+5,534,Conkeldurr,Fighting,,505,Timburr,Final,Trade,X,X
+5,535,Tympole,Water,,294,Tympole,Base,X,X,X
+5,536,Palpitoad,Water,Ground,384,Tympole,Middle,Levelling,X,X
+5,537,Seismitoad,Water,Ground,509,Tympole,Final,Levelling,X,X
+5,538,Throh,Fighting,,465,Throh,Only,X,X,X
+5,539,Sawk,Fighting,,465,Sawk,Only,X,X,X
+5,540,Sewaddle,Bug,Grass,310,Sewaddle,Base,X,X,X
+5,541,Swadloon,Bug,Grass,380,Sewaddle,Middle,Levelling,X,X
+5,542,Leavanny,Bug,Grass,500,Sewaddle,Final,Friendship,X,X
+5,543,Venipede,Bug,Poison,260,Venipede,Base,X,X,X
+5,544,Whirlipede,Bug,Poison,360,Venipede,Middle,Levelling,X,X
+5,545,Scolipede,Bug,Poison,485,Venipede,Final,Levelling,X,X
+5,546,Cottonee,Grass,Fairy,280,Cottonee,Base,X,X,X
+5,547,Whimsicott,Grass,Fairy,480,Cottonee,Final,Stone,X,X
+5,548,Petilil,Grass,,280,Petilil,Base,X,X,X
+5,549,Lilligant,Grass,,480,Petilil,Final,Stone,X,X
+8,549,Hisuian Lilligant,Grass,Fighting,480,Petilil,Final,Stone,X,X
+5,550,Basculin,Water,,460,Basculin,Only,X,X,X
+5,551,Sandile,Ground,Dark,292,Sandile,Base,X,X,X
+5,552,Krokorok,Ground,Dark,351,Sandile,Middle,Levelling,X,X
+5,553,Krookodile,Ground,Dark,519,Sandile,Final,Levelling,X,X
+5,554,Darumaka,Fire,,315,Darumaka,Base,X,X,X
+8,554,Galarian Darumaka,Ice,,315,Darumaka,Base,X,X,X
+5,555,Darmanitan,Fire,,480,Darumaka,Final,Levelling,X,X
+5,555,Darmanitan (Zen),Fire,Psychic,540,Darumaka,Combined,X,X,X
+8,555,Galarian Darmanitan,Ice,,480,Darumaka,Final,Stone,X,X
+8,555,Galarian Darmanitan (Zen),Ice,Fire,540,Darumaka,Combined,X,X,X
+5,556,Maractus,Grass,,461,Maractus,Only,X,X,X
+5,557,Dwebble,Bug,Rock,325,Dwebble,Base,X,X,X
+5,558,Crustle,Bug,Rock,485,Dwebble,Final,Levelling,X,X
+5,559,Scraggy,Dark,Fighting,348,Scraggy,Base,X,X,X
+5,560,Scrafty,Dark,Fighting,488,Scraggy,Final,Levelling,X,X
+5,561,Sigilyph,Psychic,Flying,490,Sigilyph,Only,X,X,X
+5,562,Yamask,Ghost,,303,Yamask,Base,X,X,X
+8,562,Galarian Yamask,Ground,Ghost,303,Yamask,Base,X,X,X
+5,563,Cofagrigus,Ghost,,483,Yamask,Final,Levelling,X,X
+5,564,Tirtouga,Water,Rock,355,Tirtouga,Base,X,X,X
+5,565,Carracosta,Water,Rock,495,Tirtouga,Final,Levelling,X,X
+5,566,Archen,Rock,Flying,401,Archen,Base,X,X,X
+5,567,Archeops,Rock,Flying,567,Archen,Final,Levelling,X,X
+5,568,Trubbish,Poison,,329,Trubbish,Base,X,X,X
+5,569,Garbodor,Poison,,474,Trubbish,Final,Levelling,X,X
+5,570,Zorua,Dark,,330,Zorua,Base,X,X,X
+8,570,Hisuian Zorua,Normal,Ghost,330,Zorua,Base,X,X,X
+5,571,Zoroark,Dark,,510,Zorua,Final,Levelling,X,X
+8,571,Hisuian Zoroark,Normal,Ghost,510,Zorua,Final,Levelling,X,X
+5,572,Minccino,Normal,,300,Miccino,Base,X,X,X
+5,573,Cinccino,Normal,,470,Miccino,Final,Stone,X,X
+5,574,Gothita,Psychic,,290,Gothita,Base,X,X,X
+5,575,Gothorita,Psychic,,390,Gothita,Middle,Levelling,X,X
+5,576,Gothitelle,Psychic,,490,Gothita,Final,Levelling,X,X
+5,577,Solosis,Psychic,,290,Solosis,Base,X,X,X
+5,578,Duosion,Psychic,,370,Solosis,Middle,Levelling,X,X
+5,579,Reuniclus,Psychic,,490,Solosis,Final,Levelling,X,X
+5,580,Ducklett,Water,Flying,305,Ducklett,Base,X,X,X
+5,581,Swanna,Water,Flying,473,Ducklett,Final,Levelling,X,X
+5,582,Vanillite,Ice,,305,Vanillite,Base,X,X,X
+5,583,Vanillish,Ice,,395,Vanillite,Middle,Levelling,X,X
+5,584,Vanilluxe,Ice,,535,Vanillite,Final,Levelling,X,X
+5,585,Deerling,Normal,Grass,335,Deerling,Base,X,X,X
+5,586,Sawsbuck,Normal,Grass,475,Deerling,Final,Levelling,X,X
+5,587,Emolga,Electric,Flying,428,Emolga,Only,X,X,X
+5,588,Karrablast,Bug,,315,Karrablast,Base,X,X,X
+5,589,Escavalier,Bug,Steel,495,Karrablast,Final,Trade,Traded Pokemon,X
+5,590,Foongus,Grass,Poison,294,Foongus,Base,X,X,X
+5,591,Amoonguss,Grass,Poison,464,Foongus,Final,Levelling,X,X
+5,592,Frillish,Water,Ghost,335,Frillish,Base,X,X,X
+5,593,Jellicent,Water,Ghost,480,Frillish,Final,Levelling,X,X
+5,594,Alomomola,Water,,470,Alomomola,Only,X,X,X
+5,595,Joltik,Bug,Electric,319,Joltik,Base,X,X,X
+5,596,Galvantula,Bug,Electric,472,Joltik,Final,Levelling,X,X
+5,597,Ferroseed,Grass,Steel,305,Ferroseed,Base,X,X,X
+5,598,Ferrothorn,Grass,Steel,489,Ferroseed,Final,Levelling,X,X
+5,599,Klink,Steel,,300,Klink,Base,X,X,X
+5,600,Klang,Steel,,440,Klink,Middle,Levelling,X,X
+5,601,Klinklang,Steel,,520,Klink,Final,Levelling,X,X
+5,602,Tynamo,Electric,,275,Tynamo,Base,X,X,X
+5,603,Eelektrik,Electric,,405,Tynamo,Middle,Levelling,X,X
+5,604,Eelektross,Electric,,515,Tynamo,Final,Stone,X,X
+5,605,Elgyem,Psychic,,335,Elgyem,Base,X,X,X
+5,606,Beheeyem,Psychic,,485,Elgyem,Final,Levelling,X,X
+5,607,Litwick,Ghost,Fire,275,Litwick,Base,X,X,X
+5,608,Lampent,Ghost,Fire,370,Litwick,Middle,Levelling,X,X
+5,609,Chandelure,Ghost,Fire,520,Litwick,Final,Stone,X,X
+5,610,Axew,Dragon,,320,Axew,Base,X,X,X
+5,611,Fraxure,Dragon,,410,Axew,Middle,Levelling,X,X
+5,612,Haxorus,Dragon,,540,Axew,Final,Levelling,X,X
+5,613,Cubchoo,Ice,,305,Cubchoo,Base,X,X,X
+5,614,Beartic,Ice,,505,Cubchoo,Final,Levelling,X,X
+5,615,Cryogonal,Ice,,515,Cryogonal,Only,X,X,X
+5,616,Shelmet,Bug,,305,Shelmet,Base,X,X,X
+5,617,Accelgor,Bug,,395,Shelmet,Final,Trade,Traded Pokemon,X
+5,618,Stunfisk,Ground,Electric,471,Stunfisk,Only,X,X,X
+8,618,Galarian Stunfisk,Ground,Steel,471,Stunfisk,Only,X,X,X
+5,619,Mienfoo,Fighting,,350,Mienfoo,Base,X,X,X
+5,620,Mienshao,Fighting,,510,Mienfoo,Final,Levelling,X,X
+5,621,Druddigon,Dragon,,485,Druddigon,Only,X,X,X
+5,622,Golett,Ground,Ghost,303,Golett,Base,X,X,X
+5,623,Golurk,Ground,Ghost,483,Golett,Final,Levelling,X,X
+5,624,Pawniard,Dark,Steel,340,Pawniard,Base,X,X,X
+5,625,Bisharp,Dark,Steel,490,Pawniard,Final,Levelling,X,X
+5,626,Bouffalant,Normal,Flying,490,Bouffalant,Only,X,X,X
+5,627,Rufflet,Normal,Flying,350,Rufflet,Base,X,X,X
+5,628,Braviary,Normal,Flying,510,Rufflet,Final,Levelling,X,X
+8,628,Hisuian Braviary,Psychic,Flying,510,Rufflet,Final,Levelling,X,X
+5,629,Vullaby,Dark,Flying,370,Vullaby,Base,X,X,X
+5,630,Mandibuzz,Dark,Flying,510,Vullaby,Final,Levelling,X,X
+5,631,Heatmor,Fire,,484,Heatmor,Only,X,X,X
+5,632,Durant,Bug,Steel,484,Durant,Only,X,X,X
+5,633,Deino,Dark,Dragon,300,Deino,Base,X,X,X
+5,634,Zweilous,Dark,Dragon,420,Deino,Middle,Levelling,X,X
+5,635,Hydreigon,Dark,Dragon,600,Deino,Final,Levelling,X,X
+5,636,Larvesta,Bug,Fire,360,Larvesta,Base,X,X,X
+5,637,Volcarona,Bug,Fire,550,Larvesta,Final,Levelling,X,X
+5,638,Cobalion,Steel,Fighting,580,Cobalion,Only,X,X,X
+5,639,Terrakion,Rock,Fighting,580,Terrakion,Only,X,X,X
+5,640,Virizion,Gradd,Fighting,580,Virizion,Only,X,X,X
+5,641,Tornadus,Flying,,580,Tornadus,Only,X,X,X
+5,642,Thundurus,Electric,Flying,580,Thundurus,Only,X,X,X
+5,643,Reshiram,Dragon,Fire,680,Reshiram,Only,X,X,X
+5,644,Zekrom,Dragon,Electric,680,Zekrom,Only,X,X,X
+5,645,Landorus,Ground,Flying,600,Landorus,Only,X,X,X
+5,646,Kyurem,Dragon,Ice,660,Kyurem,Only,X,X,X
+5,647,Keldeo,Water,Fighting,580,Keldeo,Only,X,X,X
+5,648,Meloetta,Normal,Psychic,600,Meloetta,Only,X,X,X
+5,648,Meloetta (Pirouette),Normal,Fighting,600,Meloetta,Only,X,X,X
+5,649,Genesect,Bug,Steel,600,Genesect,Only,X,X,X
+6,650,Chespin,Grass,,313,Chespin,Base,X,X,X
+6,651,Quilladin,Grass,,405,Chespin,Middle,Levelling,X,X
+6,652,Chesnaught,Grass,Fighting,530,Chespin,Final,Levelling,X,X
+6,653,Fennekin,Fire,,307,Fennekin,Base,X,X,X
+6,654,Braixen,Fire,,409,Fennekin,Middle,Levelling,X,X
+6,655,Delphox,Fire,Psychic,534,Fennekin,Final,Levelling,X,X
+6,656,Froakie,Water,,314,Froakie,Base,X,X,X
+6,657,Frogadier,Water,,405,Froakie,Middle,Levelling,X,X
+6,658,Greninja,Water,Dark,530,Froakie,Final,Levelling,X,X
+6,659,Bunnelby,Normal,,237,Bunnelby,Base,X,X,X
+6,660,Diggersby,Normal,Ground,423,Bunnelby,Final,Levelling,X,X
+6,661,Fletchling,Normal,Flying,278,Fletchling,Base,X,X,X
+6,662,Fletchinder,Fire,Flying,382,Fletchling,Middle,Levelling,X,X
+6,663,Talonflame,Fire,Flying,499,Fletchling,Final,Levelling,X,X
+6,664,Scatterbug,Bug,,200,Scatterbug,Base,X,X,X
+6,665,Spewpa,Bug,,213,Scatterbug,Middle,Levelling,X,X
+6,666,Vivillon,Bug,Flying,411,Scatterbug,Final,Levelling,X,X
+6,667,Litleo,Fire,Normal,369,Litleo,Base,X,X,X
+6,668,Pyroar,Fire,Normal,507,Litleo,Final,Levelling,X,X
+6,669,Flabebe,Fairy,,303,Flabebe,Base,X,X,X
+6,670,Floette,Fairy,,371,Flabebe,Middle,Levelling,X,X
+6,671,Florges,Fairy,,552,Flabebe,Final,Stone,X,X
+6,672,Skiddo,Grass,,350,Skiddo,Base,X,X,X
+6,673,Gogoat,Grass,,531,Skiddo,Final,Levelling,X,X
+6,674,Pancham,Fighting,,348,Pancham,Base,X,X,X
+6,675,Pangoro,Fighting,Dark,495,Pancham,Final,Levelling,Party Pokemon,X
+6,676,Furfrou,Normal,,472,Furfrou,Only,X,X,X
+6,677,Espurr,Psychic,,355,Espurr,Base,X,X,X
+6,678,Meowstic,Psychic,,466,Espurr,Final,Levelling,X,X
+6,679,Honedge,Steel,Ghost,325,Honedge,Base,X,X,X
+6,680,Doublade,Steel,Ghost,448,Honedge,Middle,Levelling,X,X
+6,681,Aegislash,Steel,Ghost,520,Honedge,Final,Stone,X,X
+6,682,Spritzee,Fairy,,341,Spritzee,Base,X,X,X
+6,683,Aromatisse,Fairy,,462,Spritzee,Final,Trade,Held Item,X
+6,684,Swirlix,Fairy,,341,Swirlix,Base,X,X,X
+6,685,Slurpuff,Fairy,,480,Swirlix,Final,Trade,Held Item,X
+6,686,Inkay,Dark,Psychic,288,Inkay,Base,X,X,X
+6,687,Malamar,Dark,Psychic,482,Inkay,Final,Levelling,Console Orientation,X
+6,688,Binacle,Rock,Water,306,Binacle,Base,X,X,X
+6,689,Barbaracle,Rock,Water,500,Binacle,Final,Levelling,X,X
+6,690,Skrelp,Poison,Water,320,Skrelp,Base,X,X,X
+6,691,Dragalge,Poison,Dragon,494,Skrelp,Final,Levelling,X,X
+6,692,Clauncher,Water,,330,Clauncher,Base,X,X,X
+6,693,Clawitzer,Water,,500,Clauncher,Final,Levelling,X,X
+6,694,Helioptile,Electric,Normal,289,Helioptile,Base,X,X,X
+6,695,Heliolisk,Electric,Normal,481,Helioptile,Final,Stone,X,X
+6,696,Tyrunt,Rock,Dragon,362,Tyrunt,Base,X,X,X
+6,697,Tyrantrum,Rock,Dragon,521,Tyrunt,Final,Levelling,Time,X
+6,698,Amaura,Rock,Ice,362,Amaura,Base,X,X,X
+6,699,Aurorus,Rock,Ice,521,Amaura,Final,Levelling,Time,X
+6,700,Sylveon,Fairy,,525,Eevee,Final,Known Move,Friendship,X
+6,701,Hawlucha,Fighting,Flying,500,Hawlucha,Only,X,X,X
+6,702,Dedenne,Electric,Fairy,431,Dedenne,Only,X,X,X
+6,703,Carbink,Rock,Fairy,500,Carbink,Only,X,X,X
+6,704,Goomy,Dragon,,300,Goomy,Base,X,X,X
+6,705,Sliggoo,Dragon,,452,Goomy,Middle,Levelling,X,X
+8,705,Hisuian Sliggoo,Steel,Dragon,452,Goomy,Middle,Levelling,X,X
+6,706,Goodra,Dragon,,600,Goomy,Final,Levelling,Weather,X
+8,706,Hisuian Goodra,Steel,Dragon,600,Goomy,Final,Levelling,Weather,X
+6,707,Klefki,Steel,Fairy,470,Klefki,Only,X,X,X
+6,708,Phantump,Ghost,Grass,309,Phantump,Base,X,X,X
+6,709,Trevenant,Ghost,Grass,474,Phantump,Final,Trade,X,X
+6,710,Pumpkaboo,Ghost,Grass,335,Pumpkaboo,Base,X,X,X
+6,711,Gourgeist,Ghost,Grass,494,Pumpkaboo,Final,Trade,X,X
+6,712,Bergmite,Ice,,304,Bergmite,Base,X,X,X
+6,713,Avalugg,Ice,,514,Bergmite,Final,Levelling,X,X
+8,713,Hisuian Avalugg,Ice,Rock,514,Bergmite,Final,Levelling,X,X
+6,714,Noibat,Flying,Dragon,245,Noibat,Base,X,X,X
+6,715,Noivern,Flying,Dragon,535,Noibat,Final,Levelling,X,X
+6,716,Xerneas,Fairy,,680,Xerneas,Only,X,X,X
+6,717,Yveltal,Dark,Flying,680,Yveltal,Only,X,X,X
+6,718,Zygarde,Dragon,Ground,708,Zygarde,Only,X,X,X
+6,719,Diancie,Rock,Fairy,600,Diancie,Only,X,X,X
+6,720,Hoopa,Psychic,Ghost,600,Hoopa,Only,X,X,X
+6,720,Hoopa (Unbound),Psychic,Dark,680,Hoopa,Only,X,X,X
+6,721,Volcanion,Fire,Water,600,Volcanion,Only,X,X,X
+7,722,Rowlet,Grass,Flying,320,Rowlet,Base,X,X,X
+7,723,Dartrix,Grass,Flying,420,Rowlet,Middle,Levelling,X,X
+7,724,Decidueye,Grass,Ghost,530,Rowlet,Final,Levelling,X,X
+8,724,Hisuian Decidueye,Grass,Fighting,530,Rowlet,Final,Levelling,X,X
+7,725,Litten,Fire,,320,Litten,Base,X,X,X
+7,726,Torracat,Fire,,420,Litten,Middle,Levelling,X,X
+7,727,Incineroar,Fire,Dark,530,Litten,Final,Levelling,X,X
+7,728,Popplio,Water,,320,Popplio,Base,X,X,X
+7,729,Brionne,Water,,420,Popplio,Middle,Levelling,X,X
+7,730,Primarina,Water,Fairy,530,Popplio,Final,Levelling,X,X
+7,731,Pikipek,Normal,Flying,265,Pikipek,Base,X,X,X
+7,732,Trumbeak,Normal,Flying,355,Pikipek,Middle,Levelling,X,X
+7,733,Toucannon,Normal,Flying,485,Pikipek,Final,Levelling,X,X
+7,734,Yungoos,Normal,,253,Yungoos,Base,X,X,X
+7,735,Gumshoos,Normal,,418,Yungoos,Final,Levelling,Time,X
+7,736,Grubbin,Bug,,300,Grubbin,Base,X,X,X
+7,737,Charjabug,Bug,Electric,400,Grubbin,Middle,Levelling,X,X
+7,738,Vikavolt,Bug,Electric,500,Grubbin,Final,Stone,X,X
+7,739,Crabrawler,Fighting,,338,Crabrawler,Base,X,X,X
+7,740,Crabominable,Fighting,Ice,478,Crabrawler,Final,Stone,X,X
+7,741,Oricorio (Baile),Fire,Flying,476,Oricorio,Only,X,X,X
+7,741,Oricorio (Pom-Pom),Electric,Flying,476,Oricorio,Only,X,X,X
+7,741,Oricorio (Pa'u),Psychic,Flying,476,Oricorio,Only,X,X,X
+7,741,Oricorio (Sensu),Ghost,Flying,476,Oricorio,Only,X,X,X
+7,742,Cutiefly,Bug,Fairy,304,Cutiefly,Base,X,X,X
+7,743,Ribombee,Bug,Fairy,464,Cutiefly,Final,Levelling,X,X
+7,744,Rockruff,Rock,,280,Rockruff,Base,X,X,X
+7,745,Lycanroc (Midday),Rock,,487,Rockruff,Final,Levelling,Time,Ability
+7,745,Lycanroc (Midnight),Rock,,487,Rockruff,Split,Levelling,Time,Ability
+7,745,Lycanroc (Dusk),Rock,,487,Rockruff,Split,Levelling,Time,Ability
+7,746,Wishiwashi,Water,,175,Wishiwashi,Only,X,X,X
+7,746,Wishiwashi (School),Water,,620,Wishiwashi,Only,X,X,X
+7,747,Mareanie,Poison,Water,305,Mareanie,Base,X,X,X
+7,748,Toxapex,Poison,Water,495,Mareanie,Final,Levelling,X,X
+7,749,Mudbray,Ground,,385,Mudbray,Base,X,X,X
+7,750,Mudsdale,Ground,,500,Mudbray,Final,Levelling,X,X
+7,751,Dewpider,Water,Bug,269,Dewpider,Base,X,X,X
+7,752,Araquanid,Water,Bug,454,Dewpider,Final,Levelling,X,X
+7,753,Fomantic,Grass,,269,Fomantic,Base,X,X,X
+7,754,Lurantis,Grass,,480,Fomantic,Final,Levelling,Time,X
+7,755,Morelull,Grass,Fairy,285,Morelull,Base,X,X,X
+7,756,Shiinotic,Grass,Fairy,405,Morelull,Final,Levelling,X,X
+7,757,Salandit,Poison,Fire,320,Salandit,Base,X,X,X
+7,758,Salazzle,Poison,Fire,480,Salandit,Final,Levelling,Gender,X
+7,759,Stufful,Normal,Fighting,340,Stufful,Base,X,X,X
+7,760,Bewear,Normal,Fighting,500,Stufful,Final,Levelling,X,X
+7,761,Bounsweet,Grass,,210,Bounsweet,Base,X,X,X
+7,762,Steenee,Grass,,290,Bounsweet,Middle,Levelling,X,X
+7,763,Tsareena,Grass,,510,Bounsweet,Final,Known Move,X,X
+7,764,Comfey,Fairy,,485,Comfey,Only,X,X,X
+7,765,Oranguru,Normal,Psychic,490,Oranguru,Only,X,X,X
+7,766,Passimian,Fighting,,490,Passimian,Only,X,X,X
+7,767,Wimpod,Bug,Water,230,Wimpod,Base,X,X,X
+7,768,Golisopod,Bug,Water,530,Wimpod,Final,Levelling,X,X
+7,769,Sandygast,Ghost,Ground,320,Sandygast,Base,X,X,X
+7,770,Palossand,Ghost,Ground,480,Sandygast,Final,Levelling,X,X
+7,771,Pyukumuku,Water,,410,Pyukumuku,Only,X,X,X
+7,772,Type: Null,Normal,,534,Type: Null,Base,X,X,X
+7,773,Silvally,Normal,,570,Type: Null,Final,Friendship,X,X
+7,774,Minior,Rock,Flying,440,Minior,Only,X,X,X
+7,774,Minior (Core),Rock,Flying,500,Minior,Only,X,X,X
+7,775,Komala,Normal,,480,Komala,Only,X,X,X
+7,776,Turtonator,Fire,Dragon,485,Turtonator,Only,X,X,X
+7,777,Togedemaru,Electric,Steel,435,Togedemaru,Only,X,X,X
+7,778,Mimikyu,Ghost,Fairy,476,Mimikyu,Only,X,X,X
+7,779,Bruxish,Water,Psychic,475,Bruxish,Only,X,X,X
+7,780,Drampa,Normal,Dragon,485,Drampa,Only,X,X,X
+7,781,Dhelmise,Ghost,Grass,517,Dhelmise,Only,X,X,X
+7,782,Jangmo-o,Dragon,,300,Jangmo-o,Base,X,X,X
+7,783,Hakamo-o,Dragon,Fighting,420,Jangmo-o,Middle,Levelling,X,X
+7,784,Kommo-o,Dragon,Fighting,600,Jangmo-o,Final,Levelling,X,X
+7,785,Tapu Koko,Electric,Fairy,570,Tapu Koko,Only,X,X,X
+7,786,Tapu Lele,Psychic,Fairy,570,Tapu Lele,Only,X,X,X
+7,787,Tapu Bulu,Grass,Fairy,570,Tapu Bulu,Only,X,X,X
+7,788,Tapu Fini,Water,Fairy,570,Tapu Fini,Only,X,X,X
+7,789,Cosmog,Psychic,,200,Cosmog,Base,X,X,X
+7,790,Cosmoem,Psychic,,400,Cosmog,Middle,Levelling,X,X
+7,791,Solgaleo,Psychic,Steel,680,Cosmog,Final,Levelling,X,X
+7,792,Lunala,Psychic,Ghost,680,Cosmog,Split,Levelling,X,X
+7,793,Nihilego,Rock,Poison,570,Nihilego,Only,X,X,X
+7,794,Buzzwole,Bug,Fighting,570,Buzzwole,Only,X,X,X
+7,795,Pheromosa,Bug,Fighting,570,Pheromosa,Only,X,X,X
+7,796,Xurkitree,Electric,,570,Xurkitree,Only,X,X,X
+7,797,Celesteela,Steel,Flying,570,Celesteela,Only,X,X,X
+7,798,Kartana,Grass,Steel,570,Kartana,Only,X,X,X
+7,799,Guzzlord,Dark,Dragon,570,Guzzlord,Only,X,X,X
+7,800,Necrozma,Psychic,,600,Necrozma,Only,X,X,X
+7,801,Magearna,Steel,Fairy,600,Magearna,Only,X,X,X
+7,802,Marshadow,Fighting,Ghost,600,Marshadow,Only,X,X,X
+7,803,Poipole,Poison,,420,Poipole,Base,X,X,X
+7,804,Naganadel,Poison,Dragon,540,Naganadel,Final,Known Move,X,X
+7,805,Stakataka,Rock,Steel,570,Stakataka,Only,X,X,X
+7,806,Blacephalon,Fire,Ghost,570,Blacephalon,Only,X,X,X
+7,807,Zeraora,Electric,,600,Zeraora,Only,X,X,X
+7,808,Meltan,Steel,,300,Meltan,Base,X,X,X
+7,809,Melmetal,Steel,,600,Meltan,Final,Candy,X,X
+8,810,Grookey,Grass,,310,Grookey,Base,X,X,X
+8,811,Thwackey,Grass,,420,Grookey,Middle,Levelling,X,X
+8,812,Rillaboom,Grass,,530,Grookey,Final,Levelling,X,X
+8,813,Scorbunny,Fire,,310,Scorbunny,Base,X,X,X
+8,814,Raboot,Fire,,420,Scorbunny,Middle,Levelling,X,X
+8,815,Cinderace,Fire,,530,Scorbunny,Final,Levelling,X,X
+8,816,Sobble,Water,,310,Sobble,Base,X,X,X
+8,817,Drizzile,Water,,420,Sobble,Middle,Levelling,X,X
+8,818,Inteleon,Water,,530,Sobble,Final,Levelling,X,X
+8,819,Skwovet,Normal,,275,Skwovet,Base,X,X,X
+8,820,Greedent,Normal,,460,Skwovet,Final,Levelling,X,X
+8,821,Rookidee,Flying,,245,Rookidee,Base,X,X,X
+8,822,Corvisquire,Flying,,365,Rookidee,Middle,Levelling,X,X
+8,823,Corviknight,Flying,Steel,495,Rookidee,Final,Levelling,X,X
+8,824,Blipbug,Bug,,180,Blipbug,Base,X,X,X
+8,825,Dottler,Bug,Psychic,335,Blipbug,Middle,Levelling,X,X
+8,826,Orbeetle,Bug,Psychic,505,Blipbug,Final,Levelling,X,X
+8,827,Nickit,Dark,,245,Nickit,Base,X,X,X
+8,828,Thievul,Dark,,455,Nickit,Final,Levelling,X,X
+8,829,Gossifleur,Grass,,250,Gossifleur,Base,X,X,X
+8,830,Eldegoss,Grass,,460,Gossifleur,Final,Levelling,X,X
+8,831,Wooloo,Normal,,270,Wooloo,Base,X,X,X
+8,832,Dubwool,Normal,,490,Wooloo,Final,Levelling,X,X
+8,833,Chewtle,Water,,284,Chewtle,Base,X,X,X
+8,834,Drednaw,Water,Rock,485,Chewtle,Final,Levelling,X,X
+8,835,Yamper,Electric,,270,Yamper,Base,X,X,X
+8,836,Boltund,Electric,,490,Yamper,Final,Levelling,X,X
+8,837,Rolycoly,Rock,,240,Rolycoly,Base,X,X,X
+8,838,Carkol,Rock,Fire,410,Rolycoly,Middle,Levelling,X,X
+8,839,Coalossal,Rock,Fire,510,Rolycoly,Final,Levelling,X,X
+8,840,Applin,Grass,Dragon,260,Applin,Base,X,X,X
+8,841,Flapple,Grass,Dragon,485,Applin,Split,Item,X,X
+8,842,Appletun,Grass,Dragon,485,Applin,Split,Item,X,X
+8,843,Silicobra,Ground,,315,Silicobra,Base,X,X,X
+8,844,Sandaconda,Ground,,510,Silicobra,Final,Levelling,X,X
+8,845,Cramorant,Flying,Water,475,Cramorant,Only,X,X,X
+8,846,Arrokuda,Water,,280,Arrokuda,Base,X,X,X
+8,847,Barraskewda,Water,,490,Arrokuda,Final,Levelling,X,X
+8,848,Toxel,Electric,Poison,242,Toxel,Base,X,X,X
+8,849,Toxtricity,Electric,Poison,502,Toxel,Final,Levelling,Nature,X
+8,850,Sizzlipede,Fire,Bug,305,Sizzlipede,Base,X,X,X
+8,851,Centiskorch,Fire,Bug,525,Sizzlipede,Final,Levelling,X,X
+8,852,Clobbopus,Fighting,,310,Clobbopus,Base,X,X,X
+8,853,Grapploct,Fighting,,480,Clobbopus,Final,Known Move,X,X
+8,854,Sinistea,Ghost,,308,Sinistea,Base,X,X,X
+8,855,Polteageist,Ghost,,508,Sinistea,Final,Item,X,X
+8,856,Hatenna,Psychic,,265,Hatenna,Base,X,X,X
+8,857,Hattrem,Psychic,,370,Hatenna,Middle,Levelling,X,X
+8,858,Hatterene,Psychic,Fairy,510,Hatenna,Final,Levelling,X,X
+8,859,Impidimp,Dark,Fairy,265,Impidimp,Base,X,X,X
+8,860,Morgrem,Dark,Fairy,370,Impidimp,Middle,Levelling,X,X
+8,861,Grimmsnarl,Dark,Fairy,510,Impidimp,Final,Levelling,X,X
+8,862,Obstagoon,Dark,Normal,520,Zigzagoon,Final,Levelling,Time,X
+8,863,Perrserker,Steel,,440,Meowth,Final,Levelling,X,X
+8,864,Cursola,Ghost,,510,Corsola,Final,Levelling,X,X
+8,865,Sirfetch'd,Fighting,,507,Farfetch'd,Final,Battle Conditions,X,X
+8,866,Mr. Rime,Ice,Psychic,520,Mr. Mime,Final,Levelling,X,X
+8,867,Runerigus,Ground,Ghost,483,Yamask,Final,Damage,Place,Player Action
+8,868,Milcery,Fairy,,270,Milcery,Base,X,X,X
+8,869,Alcremie,Fairy,,495,Milcery,Final,Held Item,Time,Player Action
+8,870,Falinks,Fighting,,470,Falinks,Only,X,X,X
+8,871,Pincurchin,Electric,,435,Pincurchin,Only,X,X,X
+8,872,Snom,Ice,Bug,185,Snom,Base,X,X,X
+8,873,Frosmoth,Ice,Bug,475,Snom,Final,Friendship,Time,X
+8,874,Stonjourner,Rock,,470,Stonjourner,Only,X,X,X
+8,875,Eiscue,Ice,,470,Eiscue,Only,X,X,X
+8,876,Indeedee,Psychic,Normal,475,Indeedee,Only,X,X,X
+8,877,Morpeko,Electric,Dark,436,Morpeko,Only,X,X,X
+8,878,Cufant,Steel,,330,Cufant,Base,X,X,X
+8,879,Copperajah,Steel,,500,Cufant,Final,Levelling,X,X
+8,880,Dracozolt,Electric,Dragon,505,Dracozolt,Only,X,X,X
+8,881,Arctozolt,Electric,Ice,505,Arctozolt,Only,X,X,X
+8,882,Dracovish,Water,Dragon,505,Dracovish,Only,X,X,X
+8,883,Arctovish,Water,Ice,505,Arctovish,Only,X,X,X
+8,884,Duraludon,Steel,Dragon,535,Duraludon,Only,X,X,X
+8,885,Dreepy,Dragon,Ghost,270,Dreepy,Base,X,X,X
+8,886,Drakloak,Dragon,Ghost,410,Dreepy,Middle,Levelling,X,X
+8,887,Dragapult,Dragon,Ghost,600,Dreepy,Final,Levelling,X,X
+8,888,Zacian,Fairy,,660,Zacian,Only,X,X,X
+8,888,Zacian (Crowned),Fairy,Steel,700,Zacian,Only,X,X,X
+8,889,Zamazenta,Fighting,,660,Zamazenta,Only,X,X,X
+8,889,Zamazenta (Crowned),Fighting,Steel,700,Zamazenta,Only,X,X,X
+8,890,Eternatus,Poison,Dragon,690,Eternatus,Only,X,X,X
+8,891,Kubfu,Fighting,,385,Kubfu,Base,X,X,X
+8,892,Urshifu (Single Strike),Fighting,Dark,550,Kubfu,Split,Item,X,X
+8,892,Urshifu (Rapid Strike),Fighting,Water,550,Kubfu,Split,Item,X,X
+8,893,Zarude,Dark,Grass,600,Zarude,Only,X,X,X
+8,894,Regieleki,Electric,,580,Regieleki,Only,X,X,X
+8,895,Regidrago,Dragon,,580,Regidrago,Only,X,X,X
+8,896,Glastrier,Ice,,580,Glastrier,Only,X,X,X
+8,897,Spectrier,Ghost,,580,Spectrier,Only,X,X,X
+8,898,Calyrex,Psychic,Grass,500,Calyrex,Only,X,X,X
+8,898,Calyrex (Ice Rider),Psychic,Ice,680,Calyrex,Only,X,X,X
+8,898,Calyrex (Shadow Rider),Psychic,Ghost,680,Calyrex,Only,X,X,X
+8,899,Wyrdeer,Normal,Psychic,525,Stantler,Final,Move Usage,Move Style,X
+8,900,Kleavor,Bug,Rock,500,Scyther,Split,Item,X,X
+8,901,Ursaluna,Ground,Normal,550,Teddirusa,Final,Item,Time,X
+8,902,Basculegion,Water,Ghost,530,Basculin,Final,Damage Amount,Damage Type,X
+8,903,Sneasler,Fighting,Poison,510,Sneasel,Final,Item,Time,X
+8,904,Overqwil,Dark,Poison,510,Qwilfish,Final,Move Usage,Move Style,X
+8,905,Enamorus,Fairy,Flying,580,Enamorus,Only,X,X,X
+9,906,Sprigatito,Grass,,310,Sprigatito,Base,X,X,X
+9,907,Floragato,Grass,,410,Sprigatito,Middle,Levelling,X,X
+9,908,Meowscarada,Grass,Dark,530,Sprigatito,Final,Levelling,X,X
+9,909,Fuecoco,Fire,,310,Fuecoco,Base,X,X,X
+9,910,Crocalor,Fire,,411,Fuecoco,Middle,Levelling,X,X
+9,911,Skeledirge,Fire,Ghost,530,Fuecoco,Final,Levelling,X,X
+9,912,Quaxly,Water,,310,Quaxly,Base,X,X,X
+9,913,Quaxwell,Water,,410,Quaxly,Middle,Levelling,X,X
+9,914,Quaquaval,Water,Fighting,530,Quaxly,Final,Levelling,X,X
+9,915,Lechonk,Normal,,254,Lechonk,Base,X,X,X
+9,916,Oinkologne,Normal,,489,Lechonk,Final,Levelling,X,X
+9,917,Tarountula,Bug,,210,Tarountula,Base,X,X,X
+9,918,Spidops,Bug,,404,Tarountula,Final,Levelling,X,X
+9,919,Nymble,Bug,,210,Nymble,Base,X,X,X
+9,920,Lokix,Bug,Dark,450,Nymble,Final,Levelling,X,X
+9,921,Pawmi,Electric,,240,Pawmi,Base,X,X,X
+9,922,Pawmo,Electric,Fighting,350,Pawmi,Middle,Levelling,X,X
+9,923,Pawmot,Electric,Fighting,490,Pawmi,Final,Player Action,Steps,X
+9,924,Tandemaus,Normal,,305,Tandemaus,Base,X,X,X
+9,925,Maushold,Normal,,470,Tandemaus,Final,Levelling,Battle,X
+9,926,Fidough,Fairy,,312,Fidough,Base,X,X,X
+9,927,Dachsbun,Fairy,,477,Fidough,Final,Levelling,X,X
+9,928,Smoliv,Grass,Normal,260,Smoliv,Base,X,X,X
+9,929,Doliv,Grass,Normal,354,Smoliv,Middle,Levelling,X,X
+9,930,Arboliva,Grass,Normal,510,Smoliv,Final,Levelling,X,X
+9,931,Squawkabilly,Normal,Flying,417,Squawkabilly,Only,X,X,X
+9,932,Nacli,Rock,,280,Nacli,Base,X,X,X
+9,933,Naclstack,Rock,,355,Nacli,Middle,Levelling,X,X
+9,934,Garganacl,Rock,,500,Nacli,Final,Levelling,X,X
+9,935,Charcadet,Fire,,255,Charcadet,Base,X,X,X
+9,936,Armarouge,Fire,Psychic,525,Charcadet,Split,Item,X,X
+9,937,Ceruledge,Fire,Ghost,525,Charcadet,Split,Item,X,X
+9,938,Tadbulb,Electric,,272,Tadbulb,Base,X,X,X
+9,939,Bellibolt,Electric,,495,Tadbulb,Final,Stone,X,X
+9,940,Wattrel,Electric,Flying,280,Watrel,Base,X,X,X
+9,941,Kilowattrel,Electric,Flying,490,Watrel,Final,Levelling,X,X
+9,942,Maschiff,Dark,,340,Maschiff,Base,X,X,X
+9,943,Mabosstiff,Dark,,505,Maschiff,Final,Levelling,X,X
+9,944,Shroodle,Poison,Normal,290,Shroodle,Base,X,X,X
+9,945,Grafaiai,Poison,Normal,485,Shroodle,Final,Levelling,X,X
+9,946,Gramblin,Grass,Ghost,275,Bramblin,Base,X,X,X
+9,947,Brambleghast,Grass,Ghost,480,Bramblin,Final,Player Action,Steps,X
+9,948,Toedscool,Ground,Grass,335,Tentacool,Base,X,X,X
+9,949,Toedscruel,Ground,Grass,515,Tentacool,Final,Levelling,X,X
+9,950,Klawf,Rock,,450,Klawf,Only,X,X,X
+9,951,Capsakid,Grass,,304,Capsakid,Base,X,X,X
+9,952,Scovillain,Grass,Fire,486,Capsakid,Final,Stone,X,X
+9,953,Rellor,Bug,,270,Rellor,Base,X,X,X
+9,954,Rabsca,Bug,Psychic,470,Rellor,Final,Player Action,Steps,X
+9,955,Flittle,Psychic,,255,Flittle,Base,X,X,X
+9,956,Espathra,Psychic,,481,Flittle,Final,Levelling,X,X
+9,957,Tinkatink,Fairy,Steel,297,Tinkatink,Base,X,X,X
+9,958,Tinkatuff,Fairy,Steel,380,Tinkatink,Middle,Levelling,X,X
+9,959,Tinkaton,Fairy,Steel,506,Tinkatink,Final,Levelling,X,X
+9,960,Wiglett,Water,,245,Diglett,Base,X,X,X
+9,961,Wugtrio,Water,,425,Diglett,Final,Levelling,X,X
+9,962,Bombirdier,Flying,Dark,485,Bombirdier,Only,X,X,X
+9,963,Finizen,Water,,315,Finizen,Base,X,X,X
+9,964,Palafin,Water,,457,Finizen,Final,Levelling,Connection Features,X
+9,964,Palafin (Hero),Water,,650,Finizen,Final,Levelling,Connection Features,X
+9,965,Varoom,Steel,Poison,300,Varoom,Base,X,X,X
+9,966,Revavroom,Steel,Poison,500,Varoom,Final,Levelling,X,X
+9,967,Cyclizar,Dragon,Normal,501,Cyclizar,Only,X,X,X
+9,968,Orthworm,Steel,,480,Orthworm,Only,X,X,X
+9,969,Glimmet,Rock,Poison,350,Glimmet,Base,X,X,X
+9,970,Glimmora,Rock,Poison,525,Glimmet,Final,Levelling,X,X
+9,971,Greavard,Ghost,,290,Greavard,Base,X,Time,X
+9,972,Houndstone,Ghost,,488,Greavard,Final,Levelling,X,X
+9,973,Flamigo,Flying,Fighting,500,Flamigo,Only,X,X,X
+9,974,Cetoddle,Ice,,334,Cetoddle,Base,X,X,X
+9,975,Cetitan,Ice,,521,Cetoddle,Final,Stone,X,X
+9,976,Veluza,Water,Psychic,478,Veluza,Only,X,X,X
+9,977,Dondozo,Water,,530,Dondozo,Only,X,X,X
+9,978,Tatsugiri,Dragon,Water,475,Tatsugiri,Only,X,X,X
+9,979,Annihilape,Fighting,Ghost,535,Mankey,Final,Move Usage,X,X
+9,980,Clodsire,Poison,Ground,430,Wooper,Final,Levelling,X,X
+9,981,Farigiraf,Normal,Psychic,520,Girafarig,Final,Known Move,X,X
+9,982,Dudunsparce,Normal,,520,Dunsparce,Final,Known Move,X,X
+9,983,Kingambit,Dark,Steel,550,Pawniard,Final,Encounters,X,X
+9,984,Great Tusk,Ground,Fighting,570,Phanpy,Only,X,X,X
+9,985,Scream Tail,Fairy,Psychic,570,Jigglypuff,Only,X,X,X
+9,986,Brute Bonnet,Grass,Dark,570,Foongus,Only,X,X,X
+9,987,Flutter Mane,Ghost,Fairy,570,Misdreavus,Only,X,X,X
+9,988,Slither Wing,Bug,Fighting,570,Larvesta,Only,X,X,X
+9,989,Sandy Shocks,Electric,Ground,570,Magnemite,Only,X,X,X
+9,990,Iron Treads,Ground,Steel,570,Phanpy,Only,X,X,X
+9,991,Iron Bundle,Ice,Water,570,Delibird,Only,X,X,X
+9,992,Iron Hands,Fighting,Electric,570,Makuhita,Only,X,X,X
+9,993,Iron Jugulis,Dark,Flying,570,Deino,Only,X,X,X
+9,994,Iron Moth,Fire,Poison,570,Larvesta,Only,X,X,X
+9,995,Iron Thorns,Rock,Electric,570,Larvitar,Only,X,X,X
+9,996,Frigibax,Dragon,Ice,320,Frigibax,Base,X,X,X
+9,997,Arctibax,Dragon,Ice,423,Frigibax,Middle,Levelling,X,X
+9,998,Baxcalibur,Dragon,Ice,600,Frigibax,Final,Levelling,X,X
+9,999,Gimmighoul,Ghost,,300,Gimmighoul,Base,X,X,X
+9,1000,Gholdengo,Steel,Ghost,550,Gimmighoul,Final,Item,X,X
+9,1001,Wo-Chien,Dark,Grass,570,Wo-Chien,Only,X,X,X
+9,1002,Chien-Pao,Dark,Ice,570,Chien-Pao,Only,X,X,X
+9,1003,Ting-Lu,Dark,Ground,570,Ting-Lu,Only,X,X,X
+9,1004,Chi-Yu,Dark,Fire,570,Chi-Yu,Only,X,X,X
+9,1005,Roaring Moon,Dragon,Dark,590,Bagon,Only,X,X,X
+9,1006,Iron Valiant,Fairy,Fighting,590,Ralts,Only,X,X,X
+9,1007,Koraidon,Fighting,Dragon,670,Koraidon,Only,X,X,X
+9,1008,Miraidon,Electric,Dragon,670,Miraidon,Only,X,X,X
+9,1009,Walking Wake,Water,Dragon,590,Suicune,Only,X,X,X
+9,1010,Iron Leaves,Grass,Psychic,590,Virizion,Only,X,X,X
